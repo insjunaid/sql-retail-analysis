@@ -111,6 +111,7 @@ GROUP BY Customer_Name
 ORDER BY Total_Sales DESC
 LIMIT 10;
 ```
+<img width="200" height="200" alt="{23561ECF-B73F-496B-960D-BB7EC0698E0C}" src="https://github.com/user-attachments/assets/72c7a629-4605-454d-b45a-b74d59faf79d" />
 
 ---
 
@@ -136,6 +137,7 @@ GROUP BY Product_Name
 HAVING Total_Profit < 0
 ORDER BY Total_Profit;
 ```
+<img width="240" height="200" alt="{B7971ED5-AF9B-4DEF-8534-E9A6E3918D5F}" src="https://github.com/user-attachments/assets/6b179379-912d-4f6a-a50b-675b31fc8972" />
 
 ---
 
